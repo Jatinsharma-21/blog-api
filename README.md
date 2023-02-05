@@ -3,10 +3,13 @@
 
 Fully working blog management system with full authentication and MVC
 
-### Requerimentos
-
+### Technologies used
 - Mongodb
 - Nodejs
+- Expressjs
+- Jwt
+
+
 
 ## Methods/EndPoints
 
